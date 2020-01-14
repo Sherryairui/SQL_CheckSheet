@@ -1,4 +1,0 @@
-**The different between ROW_NUMBER and RANK.**
-
-*ROW_NUMBER*: Returns a unique number for each row starting with 1. For rows that have duplicate values,numbers are arbitarily assigned.
-*Rank* : Assigns a unique number for each row starting with 1,except for rows that have duplicate values,in which case the same ranking is assigned and a gap appears in the sequence for each duplicate ranking.
