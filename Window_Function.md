@@ -9,7 +9,7 @@
 Here is a example of those window funtion's results.
 
 |ID       |RANK      |ROW_NUMBER      |DENSE_RANK|
-|-------- |--------- |--------------- ---------- |
+|-------- |--------- |--------------- |--------- |
 |1        |1         |1               |1         |
 |1        |1         |2               |1         |
 |1        |1         |3               |1         |
